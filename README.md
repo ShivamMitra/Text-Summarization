@@ -1,5 +1,5 @@
 # Text-Summarization
-A flexible and extensible project for generating concise summaries of content — not only plain text (documents/articles) but also **webpage URLs** and **YouTube video URLs** (transcript-based) — built by Shivam Mitra.
+A flexible and extensible project for generating concise summaries of content — not only plain text (documents/articles) but also **webpage URLs** and **YouTube video URLs** (transcript-based).
 
 ## Table of Contents
 1. [About the Project](#about-the-project)  
